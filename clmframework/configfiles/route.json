@@ -1,0 +1,13 @@
+[
+    {
+        "action":"/hellonode",
+        "module":"hello",
+        "method":"hellonode"
+    },
+    {
+        "action":"/helloworld",
+        "module":"hello",
+        "method":"helloworld"
+    }
+
+]
